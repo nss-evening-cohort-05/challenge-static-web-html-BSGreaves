@@ -2,10 +2,18 @@
 
 body {
 	font-family: Futura, Trebuchet MS, Arial, sans-serif;
+	font-size: 14pt;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 main {
-	margin: 30px;
+	margin: 30px 60px;
 }
 
 /* NAV STYLES */
@@ -25,6 +33,7 @@ nav ul {
 	margin-left: 0;
 	padding-left: 0;
 	width: 80%;
+	margin-top: 0;
 }
 
 nav ul:first-child {
@@ -50,7 +59,7 @@ nav ul li a {
 	line-height: 35px;
 	min-width: 70px;
 	border-radius: 3px;
-	font-size: 1.3em;
+	font-size: 1.1em;
 }
 
 /* PAGE ELEMENTS */
@@ -59,7 +68,6 @@ nav ul li a {
 	display: block;
 	width: 100%;
 	margin: auto;
-
 }
 
 .bioPic img {
@@ -68,15 +76,19 @@ nav ul li a {
 	border-radius: 100%;
 	display: block;
 	margin: 0 auto;
-
+	border: 1px solid lightgrey;
 }
 
 .bioName {
 	margin: auto;
 	text-align: center;
+	color: #14003B;
 }
 
-
+.articleHeader {
+	color: #14003B;
+	font-size: 1.2em;
+}
 
 hr {
     border: 0;
