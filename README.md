@@ -34,15 +34,15 @@ Create a site for your own personal branding. Keep in mind this is an HTML exerc
 
 ### Content and Technical Requirements
 1. Title - make it meaningful.
-1. Header element `<h1>` - This is the main headline; include your name and what this page is.
-1. Photo
-1. Article element containing your bio
-1. Article element with links to resources or sites you like
-1. Article element with two sections for future projects (placeholders)
-1. Footer element with email and professional social media links; Github, twitter, LinkedIn, etc.
-1. Semantic mark-up for all major elements.
-1. Validate your html page with W3 validator: https://validator.w3.org/
-1. Appropriate folder structure: images, css.
+2. Header element `<h1>` - This is the main headline; include your name and what this page is.
+3. Photo
+4. Article element containing your bio
+5. Article element with links to resources or sites you like
+6. Article element with two sections for future projects (placeholders)
+7. Footer element with email and professional social media links; Github, twitter, LinkedIn, etc.
+8. Semantic mark-up for all major elements.
+9. Validate your html page with W3 validator: https://validator.w3.org/
+10. Appropriate folder structure: images, css.
 
 
 ## Notes
